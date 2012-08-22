@@ -15,6 +15,12 @@
 				<string>#F8F8F0</string>
 				<key>foreground</key>
 				<string>#F8F8F2</string>
+				<key>gutterBackground</key>
+				<string>#49483E</string>
+				<key>gutterDivider</key>
+				<string>#75715E</string>
+				<key>gutterForeground</key>
+				<string>#75715E</string>
 				<key>invisibles</key>
 				<string>#49483E</string>
 				<key>lineHighlight</key>
